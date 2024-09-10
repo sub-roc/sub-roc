@@ -1,16 +1,16 @@
-## Hi there 👋
+## hi!
 
-<!--
-**sub-roc/sub-roc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### my name is soroush (he/him)! i'm a 15-year-old high school student who loves to code!
+#### im currently working on Unipath, a admissions tool for canadian high school students, and figuring out javascript along the way!
 
-Here are some ideas to get you started:
+* my parents are from iran, but i was born in canada and have lived here all my life!
+* you can reach me at paidar.soroush@gmail.com!
+* fun fact: my username is named after dj subroc, a member of one of my favourite hip-hop groups, kmd!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### what ik
+(https://skillicons.dev/icons?i=python, js, html, css, &perline=4)](https://skillicons.dev)
+
+#### what i use
+(https://skillicons.dev/icons?i=pycharm, vscode)](https://skillicons.dev)
+
 -->
