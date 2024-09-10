@@ -4,7 +4,7 @@
 #### im currently working on Unipath, a admissions tool for canadian high school students, and figuring out javascript along the way!
 ![proc](https://img.shields.io/badge/procrastinating-yes-green)
 ![calc](https://img.shields.io/badge/understands%20calc-HELL%20NAH-red)
-![phys](https://img.shields.io/badge/debugs%20code-whats%20debugging-yellow)
+![phys](https://img.shields.io/badge/debugs%20code-what's%20debugging-yellow)
 * my parents are from iran, but i was born in canada and have lived here all my life!
 * you can reach me at paidar.soroush@gmail.com!
 * fun fact: my username is named after dj subroc, a member of kmd, one of my favourite hip-hop groups!
