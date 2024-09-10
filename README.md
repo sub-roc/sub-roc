@@ -2,8 +2,7 @@
 
 ### my name is soroush (he/him)! i'm a 15-year-old high school student who loves to code!
 #### im currently working on Unipath, a admissions tool for canadian high school students, and figuring out javascript along the way!
-![garbageatschool](https://img.shields.io/badge/trash%at%20school-true-green)
-![debug](https://img.shields.io/badge/debugs?-ew%20no-red)
+![badprogrammer](https://img.shields.io/badge/bad%20programmer-passing-green)
 * my parents are from iran, but i was born in canada and have lived here all my life!
 * you can reach me at paidar.soroush@gmail.com!
 * fun fact: my username is named after dj subroc, a member of kmd, one of my favourite hip-hop groups!
