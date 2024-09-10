@@ -5,6 +5,7 @@
 ![proc](https://img.shields.io/badge/procrastinating-yes-green)
 ![calc](https://img.shields.io/badge/understands%20calc-HELL%20NAH-red)
 ![phys](https://img.shields.io/badge/debugs%20code-what's%20debugging-yellow)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=htj6eyw8oxnrrui5yvrhz3447&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=htj6eyw8oxnrrui5yvrhz3447&redirect=true)
 * my parents are from iran, but i was born in canada and have lived here all my life!
 * you can reach me at paidar.soroush@gmail.com!
 * fun fact: my username is named after dj subroc, a member of kmd, one of my favourite hip-hop groups!
