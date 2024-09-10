@@ -9,6 +9,6 @@
 ### i know these
 
 [![tools](https://skillicons.dev/icons?i=pycharm,rustrover,vscode,notion)](https://skillicons.dev)
-[![skills](https://skillicons.dev/icons?i=py,js,html,css)](https://skillicons.dev)
 
 ### i use these
+[![skills](https://skillicons.dev/icons?i=py,js,html,css)](https://skillicons.dev)
