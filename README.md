@@ -10,4 +10,4 @@
 [![skills](https://skillicons.dev/icons?i=py,js,html,css)](https://skillicons.dev)
 
 ### i use these
-[![tools](https://skillicons.dev/icons?i=pycharm, rustrover, vscode, notion)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=pycharm, vscode, notion)](https://skillicons.dev)
