@@ -8,7 +8,7 @@
 * fun fact: my username is named after dj subroc, a member of one of my favourite hip-hop groups, kmd!
 
 #### what ik
-(https://skillicons.dev/icons?i=python, js, html, css, &perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python, html, CSS, js&perline=4)](https://skillicons.dev)
 
 #### what i use
 (https://skillicons.dev/icons?i=pycharm, vscode)](https://skillicons.dev)
