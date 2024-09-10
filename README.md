@@ -7,7 +7,8 @@
 * you can reach me at paidar.soroush@gmail.com!
 * fun fact: my username is named after dj subroc, a member of kmd, one of my favourite hip-hop groups!
 ### i know these
+
+[![tools](https://skillicons.dev/icons?i=pycharm, vscode, notion)](https://skillicons.dev)
 [![skills](https://skillicons.dev/icons?i=py,js,html,css)](https://skillicons.dev)
 
 ### i use these
-[![tools](https://skillicons.dev/icons?i=pycharm, vscode, notion)](https://skillicons.dev)
